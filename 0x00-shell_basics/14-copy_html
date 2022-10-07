@@ -1,2 +1,5 @@
 #!/bin/bash
 <p -u *.html ..
+-rw-r--r-- /tmp/file_0.html
+-rw-rr-r-- /tmp/file_1.html
+-rw-r--r-- /tmp/file_2.html
